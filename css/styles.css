@@ -1,4 +1,8 @@
 /*typography*/
+html{
+    background: cornflowerblue;
+}
+
 h1{
 	font-family: roboto;
 }
